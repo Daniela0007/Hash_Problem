@@ -12,4 +12,4 @@ public:
 	const char* GetName() { return nume_hash; }
 };
 
-#endif // !HASH_H
+#endif 
